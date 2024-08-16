@@ -1,0 +1,31 @@
+.img{
+    height: 350px;
+    margin-left: 30%;
+}
+.h1{
+    font-size: 30px;
+}
+.rac{
+    background-color: green;
+    border-radius: 10px;
+}
+.mar{
+    margin: 20px;
+}
+.btn{
+    background-color:green;
+    border-radius: 15px;
+    margin-left: 40%;
+}
+.tab{
+    border-collapse: collapse;
+    margin: 20px;
+}
+.btnn{
+    background-color:green;
+    border-radius: 15px;
+    margin:20px
+}
+.bor{
+    border: 20px;
+}
